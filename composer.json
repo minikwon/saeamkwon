@@ -1,14 +1,13 @@
 {
-    "name": "xyu/heroku-wp",
-    "description": "A template for installing and running WordPress on Heroku",
-    "homepage": "https://github.com/xyu/heroku-wp",
-    "license": "MIT",
+    "name": "minikwon/saeamkwon.com",
+    "description": "Portfolio",
+    "homepage": "https://github.com/minikwon/saeamkwon.com",
     "authors": [
         {
-            "name": "Xiao Yu",
-            "email": "me@xyu.io",
-            "homepage": "http://xyu.io",
-            "role": "Developer"
+            "name": "Saeam Kwon",
+            "email": "saeamkwon@gmail.com",
+            "homepage": "http://www.saeamkwon.com",
+            "role": "Designer"
         }
     ],
     "require": {
