@@ -6,7 +6,9 @@ saeamkwon.com
 
 Update `composer.json` and then generate `composer.lock` file with:
 
-  $ bin/composer update --ignore-platform-reqs
+```bash
+$ bin/composer update --ignore-platform-reqs
+```
 
 ### Customize
 
