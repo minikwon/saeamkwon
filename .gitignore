@@ -1,3 +1,4 @@
+.DS_Store
 /bin/composer
 /bin/composer-setup.php
 /bin/iron-worker.tmp
