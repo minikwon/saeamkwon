@@ -15,6 +15,7 @@
         "php": "~7.0.14",
 
         "WordPress/WordPress": "*",
+        "CalderaWP/Caldera-Forms": "*",
 
         "automattic/batcache": "dev-master",
         "wpackagist-plugin/redis-cache": "~1",
@@ -41,6 +42,17 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/WordPress/WordPress/archive/4.7.1.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "CalderaWP/Caldera-Forms",
+                "version": "1.4.8",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/CalderaWP/Caldera-Forms/archive/1.4.8.zip"
                 }
             }
         },

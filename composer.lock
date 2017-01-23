@@ -4,8 +4,19 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "deeeafb1d3a3314d1cbca49077b7a79b",
+    "content-hash": "44b4b34db115c90b37477056f7af7aeb",
     "packages": [
+        {
+            "name": "CalderaWP/Caldera-Forms",
+            "version": "1.4.8",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/CalderaWP/Caldera-Forms/archive/1.4.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
         {
             "name": "WordPress/WordPress",
             "version": "4.7.1",
