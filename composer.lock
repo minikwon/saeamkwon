@@ -4,19 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "deffbad116681a88793a605693393cb4",
+    "content-hash": "f1bf853644d750b2b5e4de1d8dd9c051",
     "packages": [
-        {
-            "name": "CalderaWP/Caldera-Forms",
-            "version": "1.4.8",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/CalderaWP/Caldera-Forms/archive/1.4.8.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "type": "library"
-        },
         {
             "name": "WordPress/WordPress",
             "version": "4.7.1",
@@ -1743,6 +1732,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/authy-two-factor-authentication/"
+        },
+        {
+            "name": "wpackagist-plugin/caldera-forms",
+            "version": "1.4.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/caldera-forms/",
+                "reference": "tags/1.4.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.4.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/caldera-forms/"
         },
         {
             "name": "wpackagist-plugin/jetpack",

@@ -15,7 +15,6 @@
         "php": "~7.0.14",
 
         "WordPress/WordPress": "*",
-        "CalderaWP/Caldera-Forms": "*",
 
         "automattic/batcache": "dev-master",
         "wpackagist-plugin/redis-cache": "~1",
@@ -23,6 +22,7 @@
 
         "humanmade/s3-uploads": "~1",
         "wpackagist-plugin/authy-two-factor-authentication": "~3",
+        "wpackagist-plugin/caldera-forms": "1.4.8",
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
@@ -42,18 +42,6 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/WordPress/WordPress/archive/4.7.1.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "CalderaWP/Caldera-Forms",
-                "version": "1.4.8",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/CalderaWP/Caldera-Forms/archive/1.4.8.zip"
                 }
             }
         },
