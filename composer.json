@@ -50,6 +50,7 @@
             "package": {
                 "name": "CalderaWP/Caldera-Forms",
                 "version": "1.4.8",
+                "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/CalderaWP/Caldera-Forms/archive/1.4.8.zip"

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "44b4b34db115c90b37477056f7af7aeb",
+    "content-hash": "deffbad116681a88793a605693393cb4",
     "packages": [
         {
             "name": "CalderaWP/Caldera-Forms",
